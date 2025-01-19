@@ -20,7 +20,7 @@ jobs:
       - name: Fetch JSON file
         run: |
           mkdir -p assets # Ensure the assets folder exists
-          curl -o assets/data.json ${{ secrets.GH2025DataRepo }}
+          curl -o assets/data.json ${{ secrets.GH2025DATAREPO }}
           echo "Fetched JSON file and stored it in the assets folder"
 
       # Step 3: Commit and push the JSON file back to the repo
