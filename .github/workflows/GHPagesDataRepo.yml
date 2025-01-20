@@ -31,7 +31,3 @@ jobs:
           git add data/data.json
           git commit -m "Update JSON file in assets folder [skip ci]"
           git push
-
-      # Step 4: Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2
