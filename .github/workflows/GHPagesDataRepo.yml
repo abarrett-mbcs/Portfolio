@@ -19,8 +19,8 @@ jobs:
       # Step 2: Fetch the JSON file from the remote server
       - name: Fetch JSON file
         run: |
-          mkdir -p assets # Ensure the assets folder exists
-          curl -o assets/data.json ${{ secrets.GH2025DATAREPO }}
+          mkdir -p data # Ensure the assets folder exists
+          curl -o data/data.json ${{ secrets.GH2025DATAREPO }}
           echo "Fetched JSON file and stored it in the assets folder"
 
       # Step 3: Commit and push the JSON file back to the repo
@@ -28,6 +28,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/data.json
+          git add data/data.json
           git commit -m "Update JSON file in assets folder [skip ci]"
           git push
