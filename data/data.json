@@ -16,12 +16,12 @@
     },
     {
         "title": "Innova",
-        "summary": "Android/Kotlin mobile development",
-        "description": "A new mobile development commission using Android/Kotlin programming patterns"
+        "summary": "Android and Kotlin mobile development",
+        "description": "A new mobile development commission using Android and Kotlin programming patterns"
     },
     {
         "title": "Portfolio",
-        "summary": "Vite/React/Tailwind/SASS development",
-        "description": "This actual website is self-designed/developed using Vite, TailwindCSS and SASS"
+        "summary": "Vite-React-Tailwind-SASS development",
+        "description": "This actual website is self-designed, and developed using Vite, TailwindCSS and SASS"
     }
 ]
