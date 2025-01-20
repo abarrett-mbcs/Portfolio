@@ -1,0 +1,22 @@
+[
+  {
+      "title": "CTkinter",
+      "summary": "CTkinter for Python Gui Apps",
+      "description": "This is a first look at CustomTkinter for python to build out gui apps"
+  },
+  {
+      "title": "FastHTML",
+      "summary": "Fast python web development",
+      "description": "Getting started in a fast way for python web dev using tags to build out design"
+  },
+  {
+      "title": "Innova",
+      "summary": "Android/Kotlin mobile development",
+      "description": "A new mobile development commission using Android/Kotlin programming patterns"
+  },
+  {
+      "title": "Portfolio",
+      "summary": "Vite/React/Tailwind/SASS development",
+      "description": "This actual website is self-designed/developed using Vite, TailwindCSS and SASS"
+  }
+]
