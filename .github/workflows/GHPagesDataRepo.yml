@@ -1,4 +1,4 @@
-name: Fetch JSON File to Assets Folder
+name: Fetch JSON File to Data Folder
 
 on:
   schedule:
