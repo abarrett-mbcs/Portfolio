@@ -13,5 +13,15 @@
         "title": "FastHTML",
         "summary": "Fast python web development",
         "description": "Getting started in a fast way for python web dev using tags to build out design"
+    },
+    {
+        "title": "Innova",
+        "summary": "Android and Kotlin mobile development",
+        "description": "A new mobile development commission using Android and Kotlin programming patterns"
+    },
+    {
+        "title": "Portfolio",
+        "summary": "Vite-React-Tailwind-SASS development",
+        "description": "This actual website is self-designed, and developed using Vite, TailwindCSS and SASS"
     }
 ]
