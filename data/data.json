@@ -22,6 +22,11 @@
     {
         "title": "Portfolio",
         "summary": "Vite-React-Tailwind-SASS development",
-        "description": "This actual website is self-designed and developed using Vite, TailwindCSS and SASS"
-    }
+        "description": "This actual website is self-designed, and developed using Vite, TailwindCSS and SASS"
+    },
+	{
+		"title": "Docker-BFEapp-Dev",
+		"summary": "FastAPI, Postgres, Django, Asp.Net Core",
+		"description": "Docker compose environment for Backend and Frontend app development"
+	}
 ]
