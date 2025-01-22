@@ -1,9 +1,4 @@
 [
-	{
-      "title": "CTkinter",
-      "summary": "CTkinter for Python Gui Apps",
-      "description": "This is a first look at CustomTkinter for python to build out gui apps"
-	},
     {
         "title": "CTkinter",
         "summary": "CTkinter for Python Gui Apps",
