@@ -23,5 +23,10 @@
 		"title": "Docker-BFEapp-Dev",
 		"summary": "FastAPI, Postgres, Django, Asp.Net Core",
 		"description": "Docker compose environment for Backend and Frontend app development"
+    },
+	{
+		"title": "Docker-FastAPI",
+		"summary": "Python, FastAPI",
+		"description": "This is a demo project that uses FastAPI in Python to provide url routes simply"
 	}
 ]
