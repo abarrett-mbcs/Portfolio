@@ -26,7 +26,12 @@
     },
 	{
 		"title": "Docker-FastAPI",
-		"summary": "Python, FastAPI",
+		"summary": "Python and FastAPI routing",
 		"description": "This is a demo project that uses FastAPI in Python to provide url routes simply"
+	},
+	{
+		"title": "Docker-Asp.Net-Core",
+		"summary": "Asp.Net Core Minimal Api routing",
+		"description": "Test project with Asp.Net Core minimal api routes for home and about pages"
 	}
 ]
